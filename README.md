@@ -1,6 +1,8 @@
 # projet_dis-information_signals_1819
 This project is an arduino class for graphic designers @lecoldedesign. Code and building instructions are available [here](https://github.com/AtelierNum/projet_dis-information_signals_1819)
 
+This project is loosely inspired by [papersignals](https://papersignals.withgoogle.com/)
+
 ## Papy râleur - Théodore Guellier-Di-Giulio et Ruellan Arthur
 
 Papy râleur ne vous épargneras aucun bruit, vous entrez dans une pièce, papy est tranquillement branché à sa prise, il vous observe. Il suffit que vous haussiez le ton, et papy râleur entre en action il s’agite, il avance, il vous interpelle avec sa lampe et vous insulte de petit con. On ne dérange pas les personnes âgées.
