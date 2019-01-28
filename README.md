@@ -1,5 +1,5 @@
 # projet_dis-information_signals_1819
-This project is an arduino class for graphic designers @lecoldedesign
+This project is an arduino class for graphic designers @lecoldedesign. Code and building instructions are available [here](https://github.com/AtelierNum/projet_dis-information_signals_1819)
 
 ## Papy râleur - Théodore Guellier-Di-Giulio et Ruellan Arthur
 
@@ -12,7 +12,7 @@ Papy râleur ne vous épargneras aucun bruit, vous entrez dans une pièce, papy 
 
 C’est à nouveau cette période magique de l’année où nos chères têtes blondes se voient ensevelies sous les cadeaux. Et si cette année, on regardait un peu plus loin que notre sapin, et qu’on se demandait qui sont les véritables lutins du père Noël? Pas de chance, si on a payé cette fusée robotisée à prix bas, c’est parce que c’est un enfant du tiers-monde qui l’a fabriquée… à l’année prochaine ! 
 
-<img src="Joyeux-Noel/joyeuxnoel-light.gif" width="200" height="240" />
+<img src="Joyeux-Noel/JoyeuxNoel-light.gif" width="200" height="240" />
 
 
 ## Paradis du 72 - Fiona Bernaerts et Agathe de la Tribouille
@@ -32,7 +32,7 @@ Les inscriptions vous permettrons de vous informer sur la manipulation à faire 
 
 Une fois les portes ouvertes, elles vous révéleront le sablier représentant le temps que vous avez perdu à percer le secret de la pyramide.
 
-<img src="Pyramide-enigmatique/pyramide.gif" width="320" height="240" />
+<img src="Pyramide-Enigmatique/pyramide.gif" width="320" height="240" />
 
 
 ## Mariah Carré(s) - Léa Manchajm et Julia Haremza
@@ -52,7 +52,7 @@ La plante carnivore en apparence inoffensive, dévoile son animalité lors du co
 Belle peut évoquer le buste d’une femme fatale. La beauté extérieure laisse place à l’intériorité et
 intimité de la Bête.
 
-<img src="La-belle-et-la-bete/gifs/1.gif" width="320" height="240" />
+<img src="La-Belle-et-la-bete/gifs/1.gif" width="320" height="240" />
 
 
 ## Happy Park - Théo Denechere et Florian Galou
@@ -108,7 +108,7 @@ Le but de ce calendrier de l'avant, (avec le capteur de distance) est de dcouvri
 la verite sur l'exploitation du Pere Noel chez Coca-Cola,. Ainsi, nous mettons en valeur
 la decadence de ce personnage a travers du capitalisme que nous retrouvons dans le titre dans lequel ERO se revele et symbolise le plaisir extreme jusqu'a saturation (psychanalyse freudienne). Par consequent, plus on se rapproche plus l'animation s'accelere ce qui fait un parallele entre la relation espace et temps, qui evolue au travers des quatre illustrations.
 
-<img src="Pere-Noel-2.0/LePereNoel2.0.gif" width="220" height="440" />
+<img src="Pere-Noel-2.0/LePereNoel.gif" width="220" height="440" />
 
 
 ## Détecteur de coups de reins - Guillaume Papillon et Louise Lenepveu
