@@ -3,6 +3,10 @@ This project is an arduino class for graphic designers @lecoldedesign. Code and 
 
 This project is loosely inspired by [papersignals](https://papersignals.withgoogle.com/)
 
+Ce projet est le résultat d'une initiation à arduino pour des étudiant en design graphique à l'école de design de Nantes. Le code est les instructions de constructions sont disponnibles [ici](https://github.com/AtelierNum/projet_dis-information_signals_1819)
+
+Ce projet s'est librement inspiré de [papersignals](https://papersignals.withgoogle.com/)
+
 ## Papy râleur - Théodore Guellier-Di-Giulio et Ruellan Arthur
 
 Papy râleur ne vous épargneras aucun bruit, vous entrez dans une pièce, papy est tranquillement branché à sa prise, il vous observe. Il suffit que vous haussiez le ton, et papy râleur entre en action il s’agite, il avance, il vous interpelle avec sa lampe et vous insulte de petit con. On ne dérange pas les personnes âgées.
