@@ -21,7 +21,7 @@ C’est à nouveau cette période magique de l’année où nos chères têtes b
 <img src="Joyeux-Noel/JoyeuxNoel-light.gif" width="200" height="240" />
 
 
-## Paradis du 72 - Fiona Bernaerts et Agathe de la Tribouille
+## Paradis du 72 - Fiona Bernaerts 
 
 Cette bombe artisanale est une satire du "rêve Djihadiste" dû à une mauvaise lecture du Coran : se faire exploser pour tuer ceux qu'ils jugent "mécréants" et rejoindre 72 vierges au paradis.
 
